@@ -9,8 +9,8 @@
 
 ### 🧠 About Me
 
-- 🌱 Learning: **C++**, **DSA**, **MERN Stack**, **ML & AI**
-- 🎯 2025 Goals: GSoC, LFX Mentorship, ML Projects, Open-Source Mastery
+- 🌱 Learning: **C++ & Python**, **Data Structures & Algorithms**, **Open-Source**, **AI-ML**
+- 🎯 2025 Goals: Expert at CodeForces , Knight at Leetcode , 100+ Contributions
 
 ---
 
