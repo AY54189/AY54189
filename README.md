@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🌱 Learning: **C++ & Python**, **Data Structures & Algorithms**, **Open-Source**, **AI-ML**
-- 🎯 2025 Goals: Expert at CodeForces , Knight at Leetcode , 100+ Contributions
+- 🎯 2025 Goals: Expert & Knight Badge , 100+ Contributions
 
 ---
 
