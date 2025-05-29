@@ -3,15 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=I'm%20AY54189&fontSize=30&fontAlignY=40" alt="Welcome Banner">
 </p>
 
-<h2 align="center"> Open Source Contributor & Competitive Programmer </h2>
+<h2 align="center"> Machine Learning Tinkerer & Competitive Programmer </h2>
 
 ---
 
 ### 🧠 About Me
 
-- 🌱 Learning: **C++ & Python**, **Data Structures & Algorithms**, **Open-Source**, **AI-ML**
-- 🎯 2025 Goals: Expert & Knight Badge , 100+ Contributions
-
+- 🌱 Learning: **C++ & Python**, **Data Structures & Algorithms**, **Competitive Programming**, **Machine Learning**
 ---
 
 ### 💻 Tech Stack
