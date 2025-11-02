@@ -1,7 +1,4 @@
 <!-- Profile Banner (optional) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=200&section=header&text=I'm%20AY54189&fontSize=30&fontAlignY=40" alt="Welcome Banner">
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
